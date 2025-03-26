@@ -1,0 +1,17 @@
+2025-03-25 23:20:35 - WARNING - Voorkeuren bestand niet gevonden: /Users/mehranaghazadeh/Desktop/pushnotificatie/mrfix-python-gui/data/user_preferences.json
+2025-03-25 23:20:35 - INFO - MrFix App geïnitialiseerd
+2025-03-25 23:20:44 - WARNING - Voorkeuren bestand niet gevonden: /Users/mehranaghazadeh/Desktop/pushnotificatie/mrfix-python-gui/data/user_preferences.json, standaardwaarden worden gebruikt
+2025-03-25 23:20:44 - INFO - Monitoring gestart
+2025-03-25 23:20:44 - INFO - Database setup voltooid
+2025-03-25 23:20:52 - INFO - WebDriver setup voltooid
+2025-03-25 23:20:52 - INFO - MrFix Monitor geïnitialiseerd
+2025-03-25 23:20:52 - INFO - Start monitoring van MrFix website: https://klussenvoormij.mrfix.nl/3900
+2025-03-25 23:20:55 - INFO - Aantal gevonden opdracht elementen: 0
+2025-03-25 23:20:55 - INFO - 0 opdrachten gevonden
+2025-03-25 23:20:55 - INFO - 0 nieuwe opdrachten gevonden
+2025-03-25 23:20:55 - INFO - Volgende controle gepland over 5.0 minuten
+2025-03-25 23:25:56 - INFO - Start monitoring van MrFix website: https://klussenvoormij.mrfix.nl/3900
+2025-03-25 23:25:58 - INFO - Aantal gevonden opdracht elementen: 0
+2025-03-25 23:25:58 - INFO - 0 opdrachten gevonden
+2025-03-25 23:25:58 - INFO - 0 nieuwe opdrachten gevonden
+2025-03-25 23:25:58 - INFO - Volgende controle gepland over 5.0 minuten
