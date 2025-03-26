@@ -1,33 +1,40 @@
 {
-    "prefer_ikea": true,
-    "prefer_electrical": true,
-    "prefer_internet": true,
-    "min_hourly_rate": 79,
-    "prefer_urgent": true,
-    "max_jobs_weekday": {
-        "0": 3,
-        "1": 3,
-        "2": 2,
-        "3": 3,
-        "4": 2,
-        "5": 2,
-        "6": 3
-    },
-    "prefer_amsterdam": true,
-    "max_distance_without_permission": 20,
-    "travel_time_between_jobs": 60,
     "notification_methods": {
-        "telegram": false,
-        "pushbullet": false,
-        "email": true,
-        "pushover": true,
-        "safari_web_push": true
+        "desktop": true,
+        "email": false,
+        "sms": false,
+        "push": false,
+        "telegram": true
+    },
+    "email": "",
+    "phone": "",
+    "check_interval": 5,
+    "auto_accept": {
+        "urgent": true,
+        "ikea": true,
+        "simple_electrical": true,
+        "internet": true,
+        "high_rate": true
+    },
+    "min_hourly_rate": 79,
+    "location": {
+        "prefer_amsterdam": true,
+        "max_distance": 20
+    },
+    "schedule": {
+        "max_jobs_per_day": {
+            "0": 3,
+            "1": 5,
+            "2": 2,
+            "3": 5,
+            "4": 2,
+            "5": 2,
+            "6": 3
+        },
+        "available_from": "2025-04-04"
     },
     "telegram": {
-        "bot_token": "",
-        "chat_id": ""
-    },
-    "pushbullet": {
-        "api_key": ""
+        "bot_token": "7392828202:AAHjwx-PrjkehrbxpemcQ5VFz4NGcz-TIzs",
+        "chat_id": "89746432"
     }
 }
